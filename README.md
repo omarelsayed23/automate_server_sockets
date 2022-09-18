@@ -12,3 +12,7 @@ To run the script:
 
 5- Run: Terraform apply -auto-approve
 
+
+
+Dependencies:
+Install terraform from: https://www.terraform.io/downloads
